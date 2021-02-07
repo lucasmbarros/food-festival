@@ -25,7 +25,7 @@ A PWA, or Progressive Web Application, PWAs resemble native mobile apps and allo
 
 ## Demonstration
 
-    pending
+https://lucasmbarros.github.io/food-festival/
 
 ## Credits
 
