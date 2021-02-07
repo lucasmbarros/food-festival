@@ -1,0 +1,31 @@
+{
+  "name": "food-festival",
+  "version": "1.0.0",
+  "description": "A web application designed for a food festival. Because event attendees will use the app on their phones, it needs to be fast and performant, especially on mobile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "webpack": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasmbarros/food-festival.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasmbarros/food-festival/issues"
+  },
+  "homepage": "https://github.com/lucasmbarros/food-festival#readme",
+  "devDependencies": {
+    "webpack": "^5.21.1",
+    "webpack-cli": "^4.5.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
